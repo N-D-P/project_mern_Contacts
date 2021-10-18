@@ -1,7 +1,7 @@
 # Project_mern_Contacts
 Full Stack Web App to  that allows users to store contacts. 
 
-Uploaded Website : https://sharp-lichterman-622c26.netlify.app/posts
+Uploaded Website : https://sharp-lichterman-622c26.netlify.app
 
 Introduction
 
